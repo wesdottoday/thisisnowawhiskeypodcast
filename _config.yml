@@ -1,0 +1,32 @@
+title: This Is Now a Whiskey Podcast
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Long format interviews of people in the tech community where
+  we dive deep into their career paths, what they do day to day,
+  and try to show that there are so many different career paths for IT.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://thisisnowawhiskeypodcast.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+language: English
+email: "hello@thisisnowawhiskeypodcast.com"
+author: "Wes Kennedy"
+keywords: "tech,tech career,career,interview,engineer,engineering,cloud"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

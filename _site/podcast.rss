@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="">
+	<channel>
+		<atom:link href="http://localhost:4000/podcast.rss" rel="self" type="application/rss+xml" />
+		<title>This Is Now a Whiskey Podcast</title>
+		<description>Long format interviews of people in the tech community where we dive deep into their career paths, what they do day to day, and try to show that there are so many different career paths for IT.</description>
+		<link>http://localhost:4000</link>
+		<language></language>
+		<managingEditor>hello@thisisnowawhiskeypodcast.com (Wes Kennedy)</managingEditor>
+		<webMaster>hello@thisisnowawhiskeypodcast.com (Wes Kennedy)</webMaster>
+		<copyright>2021-2022 This Is Now a Whiskey Podcast</copyright>
+		<pubDate>Sat, 01 Jan 2022 22:04:47 -0500</pubDate>
+		<lastBuildDate>Sat, 01 Jan 2022 22:04:47 -0500</lastBuildDate>
+		<image>
+			<link>http://localhost:4000</link>
+			<url>http://localhost:4000/assets/tinawp-logo.jpeg</url>
+			<title>This Is Now a Whiskey Podcast</title>
+		</image>
+		<itunes:subtitle>Long format interviews of people in the tech community where we dive deep into their career paths, what they do day to day, and try to show that there are so many different career paths for IT.</itunes:subtitle>
+		<itunes:author>Wes Kennedy</itunes:author>
+		<itunes:summary>Long format interviews of people in the tech community where we dive deep into their career paths, what they do day to day, and try to show that there are so many different career paths for IT.</itunes:summary>
+		<itunes:keywords>tech,tech career,career,interview,engineer,engineering,cloud</itunes:keywords>
+		<itunes:owner>
+			<itunes:name>Wes Kennedy</itunes:name>
+			<itunes:email>hello@thisisnowawhiskeypodcast.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://localhost:4000/assets/tinawp-logo.jpeg" />
+		<itunes:category text="Technology" />
+		<itunes:category text="Business">
+			<itunes:category text="Careers" />
+		</itunes:category>
+		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>#000 - Chandler Bassett - Product Overlay</title>
+				<link>http://localhost:4000/podcast/2022/01/01/000-chandler-bassett.html</link>
+				<pubDate>Sat, 01 Jan 2022 18:51:22 -0500</pubDate>
+				<description>Tonight we interview Chandler Bassett, who is a Product Overlay for Pure Storage. We dive into his career path leading to where he is today, including his time in the military.</description>
+				<guid isPermaLink="true">http://localhost:4000/podcast/2022/01/01/000-chandler-bassett.html</guid>
+				<enclosure url="https://assets.thisisnowawhiskeypodcast.com/episodes/thisisnowawhiskeypodcast-e000.mp3" length="243454955" type="audio/mp3"/>
+				<itunes:author>Wes Kennedy</itunes:author>
+				<itunes:subtitle>This Is Now a Whiskey Podcast: #000 - Chandler Bassett - Product Overlay</itunes:subtitle>
+				<itunes:summary>Chandler Bassett is a Product Overlay for Pure Storage. He also runs a whiskey education company in New England. We do a deep dive into his career, the path he took to get to where he is today, and a number of other topics.</itunes:summary>
+				<itunes:duration>101:26</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://localhost:4000/images/itunes.png" />
+				<itunes:explicit>true</itunes:explicit>
+				<itunes:block>false</itunes:block>
+			</item>
+		
+	</channel>
+</rss>
