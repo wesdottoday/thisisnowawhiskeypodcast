@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "#000 - Chandler Bassett - Product Overlay"
+title:  "Chandler Bassett - Product Overlay"
+episode: "000"
 date:   2022-01-01 18:51:22 -0500
 categories: podcast
 excerpt: "Tonight we interview Chandler Bassett, who is a Product Overlay for Pure Storage. We dive into his career path leading to where he is today, including his time in the military."
