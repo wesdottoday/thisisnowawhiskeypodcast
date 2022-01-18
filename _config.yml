@@ -1,9 +1,8 @@
 title: This Is Now a Whiskey Podcast
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Long format interviews of people in the tech community where
-  we dive deep into their career paths, what they do day to day,
-  and try to show that there are so many different career paths for IT.
+  Long format interviews with people in the tech community. 
+  We dive deep into their career paths and day-to-day activities
+  to showcase the many different ways to build a career in IT.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thisisnowawhiskeypodcast.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
